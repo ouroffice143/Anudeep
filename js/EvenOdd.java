@@ -31,7 +31,7 @@ public class EvenOdd {
 			 System.out.println(" ");
 		 for(int j=0; j<i; j++) {
 		 if((k[j]%2!=0)&&(k[j]%2==0)) {
-			 System.out.print(k[j]+" "+k[j]);
+			 System.out.print(k[j]+" ");
 		 } 
 		 }
 		 for(int j=i-1; j>=0; j--) {
